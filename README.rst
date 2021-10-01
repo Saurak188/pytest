@@ -157,7 +157,7 @@ security vulnerability please use the `Tidelift security contact <https://tideli
 Tidelift will coordinate the fix and disclosure.
 
 
-License
+License Details
 -------
 
 Copyright Holger Krekel and others, 2004-2021.
